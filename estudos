@@ -1,0 +1,4 @@
+print('**DESAFIO 01**')
+print('Leia o nome do cliente e dê bom dia a ele')
+nome = input('Qual seu nome?')
+print('Olá {} bom dia, Seja bem vindo a nossa plataforma, é um prazer atendê-lo'. format(nome))
