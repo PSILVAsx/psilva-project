@@ -1,0 +1,9 @@
+print('**DESAFIO 02**')
+#print('Crie um programa que leia a dia, mês e ano de nascimento e mostre na tela')
+
+dia = input('Qual dia você nasceu?')
+mes = input('Qual mês você nasceu?')
+ano = input('Qual ano você nasceu?')
+
+print('Você masceu em {} de {} de {}'.format(dia, mes, ano))
+input('correto?')
